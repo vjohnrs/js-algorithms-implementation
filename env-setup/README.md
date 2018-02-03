@@ -3,7 +3,7 @@ The first step in exploring the algorithms and data structures is creating a wor
 The strucutre of exploring the concept under each topic is going to be
 
 Name-of -data-structure-or-algorithm
-* index.js --> core implementation
-* index.test.js --> unit test cases
-* helper.js --> helper implementation
+* index.js -- core implementation
+* helper.js -- helper functions implementation
+* index.test.js --unit test cases
 
