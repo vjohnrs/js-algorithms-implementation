@@ -21,7 +21,8 @@ const insertionSort = ( array, flag  ) =>{
 
 console.log("output:::", insertionSort([51, 22, 2, 1, 11, 141], "ASC"));
 
-/*Rewrite the INSERTION-SORT procedure to sort into nonincreasing instead of nondecreasing
+/*
+Rewrite the INSERTION-SORT procedure to sort into nonincreasing instead of nondecreasing
 order.
 */
 console.log("output:::", insertionSort([51, 22, 2, 1, 11, 141], "DSC"));
