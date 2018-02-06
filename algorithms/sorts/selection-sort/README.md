@@ -1,0 +1,1 @@
+Finds the smallest element of A and exchanging it with the element in A [ 0 ]. Then find the second smallest element of A, and exchange it with A[ 1 ] . Continue in this manner for the first n -1 elements of A.
